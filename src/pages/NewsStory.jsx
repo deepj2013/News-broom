@@ -59,7 +59,7 @@ const NewsStory = () => {
       {showVideo && (
         <div className="bg-gray-100 p-4 rounded-lg max-w-3xl w-full text-left mt-4 flex flex-col items-center">
           <ReactPlayer
-            url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            url="https://www.youtube.com/watch?v=D0UnqGm_miA"
             controls
             width="100%"
             height="400px"
